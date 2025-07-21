@@ -1,0 +1,11 @@
+n{
+  "name": "course-cssgrid",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oleksandr Lukomskyi <lukomskyi.oleksandr@gmail.com>",
+  "license": "ISC",
+  "description": ""
+}
