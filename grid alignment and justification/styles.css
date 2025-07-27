@@ -1,0 +1,16 @@
+@import url(./basic-styles.css);
+
+/* lesson styles */
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(4, 150px);
+  grid-template-rows: repeat(3, 150px);
+  border: 10px solid;
+  /* justify-items: start;
+  align-items: center; */
+  /* justify-content:center; */
+}
+.item-4 {
+justify-self: start;
+}
